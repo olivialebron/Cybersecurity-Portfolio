@@ -206,8 +206,7 @@ To obtain a cybersecurity analyst or SOC analyst role where I can contribute to 
 ---
 
 ## 📄 Resume
-A copy of my resume is available in this repository:  
-/resume/Olivia_Lebron_Resume.pdf
+To view my full technical resume, please click the file uploaded in this repository.
 
 ---
 
