@@ -81,4 +81,4 @@ Hands-on experience was developed using industry-relevant cybersecurity platform
 - Conducted detailed investigations into phishing, brute force, and malware activity  
 
 This phase demonstrates the ability to monitor, detect, and analyze security events in a SOC environment, forming the foundation for effective incident response.
-"""
+
