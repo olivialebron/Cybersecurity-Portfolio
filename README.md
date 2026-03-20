@@ -133,7 +133,7 @@ These courses demonstrate practical experience with:
 * Statistical analysis for threat detection
 * SIEM-based investigation workflows
 
-[View Splunk Certifications](./certifications/README.md)
+📄 View my Splunk certifications: [Splunk Certifications](./Splunk%20Certifications/README.md)
 
 ---
 
