@@ -1,6 +1,5 @@
 # 👩🏽‍💻 Olivia Lebron | Cybersecurity Analyst Portfolio
 
----
 
 ## 🧾 About Me
 
