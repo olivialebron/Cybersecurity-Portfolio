@@ -108,4 +108,6 @@ These skills are actively applied in projects such as:
   - Security response recommendations  
   - Cloud-ready architecture design  
 
-📄 Source: Google Skills Boost badge records and Strayer University coursework  [oai_citation:0‡Profile Badges | Google Skills.pdf](sediment://file_0000000085b4722faecb57b53621e8b3)
+### 🧾 Verified Skills & Labs
+- ☁️ **Google Cloud Skills Boost Profile**  
+  🔗 https://www.skills.google/public_profiles/2913710b-2237-4848-9b28-e512141645e6
