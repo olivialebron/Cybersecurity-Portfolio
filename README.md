@@ -3,9 +3,10 @@
 ---
 
 ## 🧾 About Me
-I am a junior cybersecurity analyst in training with hands-on experience in security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
 
-My work focuses on applying Security Operations Center (SOC) workflows to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems.
+I am a cybersecurity analyst in training with hands-on experience in security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
+
+My work focuses on applying Security Operations Center (SOC) workflows to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems. I am expanding my skill set to include **AI-driven security analysis, cloud engineering (Google Cloud and Microsoft Azure), and data pipeline processing**, with experience in Python, SQL, and object-oriented programming to support security automation and analytics.
 
 ---
 
