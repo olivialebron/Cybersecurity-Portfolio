@@ -43,11 +43,11 @@ My work focuses on applying Security Operations Center (SOC) workflows to detect
 
 ---
 
-# 🏢 Portfolio Structure (Incident Response Lifecycle)
+## 🏢 Portfolio Structure (Incident Response Lifecycle)
 
-This portfolio is organized based on the CompTIA Security+ Incident Response Process (IRP) and demonstrates hands-on experience through structured lab work and investigations.
+This portfolio is organized based on the CompTIA Security+ Incident Response Process (IRP) and demonstrates hands-on experience through structured lab work, investigations, and projects incorporating **cloud environments and AI-driven security analysis**.
 
-👉 All hands-on experience, lab work, and case studies are organized within the projects directory below.
+👉 All hands-on experience, lab work, case studies, and AI & cloud security projects are organized within the projects directory below.
 
 ---
 
