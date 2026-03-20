@@ -3,7 +3,7 @@
 ---
 
 ## 🧾 About Me
-I am a cybersecurity analyst in training with hands-on experience in security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
+I am a junior cybersecurity analyst in training with hands-on experience in security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
 
 My work focuses on applying Security Operations Center (SOC) workflows to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems.
 
@@ -56,6 +56,12 @@ This portfolio is organized based on the CompTIA Security+ Incident Response Pro
 👉 [View All Projects](./projects)
 
 ---
+## 🔗 Lab Profiles
+
+- TryHackMe Profile: https://tryhackme.com/p/olivia.lebron  
+- Blue Team Labs Online (BTLO): https://blueteamlabs.online/home/user/87845099553f9456976684
+
+---
 
 ### 🧩 Preparation  
 Establishing secure configurations, implementing controls, and preparing monitoring environments  
@@ -80,11 +86,30 @@ Incident reporting, root cause analysis, and continuous improvement
 👉 [View Post-Incident Activity](./projects/04-post-incident)
 
 ---
+## 🎓 Education
+
+**Strayer University**  
+Bachelor of Science (BS), Cybersecurity — 2026  
+- Golden Key International Honour Society  
+
+**Strayer University**  
+Associate of Arts (AA), Information Technology — 2017  
+- Phi Theta Kappa Honor Society  
+- Beta Upsilon Psi Chapter  
+
+**Per Scholas – Cybersecurity Analyst Program**  
+- Hands-on training in SOC operations, incident response, and threat detection  
+- Practical experience with SIEM (Splunk), network analysis, and endpoint monitoring
+
+---
 
 ## 🎓 Certifications
 - 🛡️ CompTIA Security+ (SY0-701)  
 - 🔐 ISC2 Certified in Cybersecurity (CC)  
-- 📊 Splunk Core Certified Power User (in progress)  
+- 📊 Splunk Core Certified Power User (in progress)
+
+Verified certifications:  
+https://www.credly.com/users/olivialebron 
 
 ---
 
