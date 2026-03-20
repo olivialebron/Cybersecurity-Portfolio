@@ -112,6 +112,37 @@ Verified certifications:
 https://www.credly.com/users/olivialebron 
 
 ---
+## 🎓 Certifications
+
+* 🛡️ CompTIA Security+ (SY0-701)
+* 🔐 ISC2 Certified in Cybersecurity (CC)
+* 📊 Splunk Core Certified Power User (in progress)
+
+🔗 Verified certifications (Credly):
+https://www.credly.com/users/olivialebron
+
+---
+
+## 📊 Splunk Training & Certifications
+
+Hands-on SIEM and log analysis training completed using Splunk Enterprise:
+
+* Intro to Splunk (eLearning) — 
+* Using Fields — 
+* Data Models — 
+* Statistical Processing — 
+* Introduction to Enterprise Security — 
+* Introduction to Cybersecurity Awareness — 
+
+These courses demonstrate practical experience with:
+
+* SPL (Search Processing Language)
+* Field extraction and normalization
+* Data modeling and correlation
+* Statistical analysis for threat detection
+* SIEM-based investigation workflows
+
+---
 
 ## 📄 Resume
 👉 [View Resume](./Olivia%20Lebron%20Technical%20Resume.pdf)
