@@ -137,6 +137,22 @@ These courses demonstrate practical experience with:
 
 ---
 
+## 🤖 AI & Cloud Security
+
+This section of my portfolio highlights projects that combine artificial intelligence, cloud engineering, software development, and cybersecurity to solve security operations and threat analysis challenges.
+
+👉 View AI & Cloud Security: [AI & Cloud Security](./AI-and-Cloud-Security/README.md)
+
+### 🎯 Focus Areas
+- 🤖 AI-driven threat detection & analysis (GenAI foundations, prompt-based workflows)  
+- ☁️ Cloud security architecture (Google Cloud & Microsoft Azure; IAM, logging, operations)  
+- 🛡️ SIEM-inspired log analysis & event correlation (Security Operations concepts)  
+- 📊 Data pipelines & analytics (BigQuery, Pub/Sub/streaming, audit log analysis)  
+- 💻 Software engineering (Python, SQL, Object-Oriented Programming, API development)  
+- ⚙️ Methods & practices (log parsing, data transformation, incident response workflows, risk management)
+
+---
+
 ## 📄 Resume
 👉 [View Resume](./Olivia%20Lebron%20Technical%20Resume.pdf)
 
