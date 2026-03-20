@@ -1,128 +1,83 @@
-from urllib.parse import quote
 
-# Base GitHub repo URL
-BASE_URL = "https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk certificates/"
+📊 Splunk Training Certificates
 
-# Certificate metadata (title, filename, description bullets)
-certifications = [
-    {
-        "title": "Intro to Splunk",
-        "file": "Splunk Intro to Splunk Certificate.pdf",
-        "details": [
-            "Core fundamentals of Splunk architecture and data ingestion",
-            "Searching, filtering, and navigating logs using Search Processing Language (SPL)",
-            "Understanding events, sources, and sourcetypes"
-        ]
-    },
-    {
-        "title": "Using Fields",
-        "file": "Splunk Using Fields Certificate.pdf",
-        "details": [
-            "Field extraction and normalization for structured analysis",
-            "Enhancing search efficiency through field-based queries",
-            "Critical for detection use cases and correlation"
-        ]
-    },
-    {
-        "title": "Data Models",
-        "file": "Splunk Data Models Certificate.pdf",
-        "details": [
-            "Structuring datasets for accelerated searches",
-            "Leveraging pivot functionality and CIM (Common Information Model)",
-            "Supporting scalable threat detection and reporting"
-        ]
-    },
-    {
-        "title": "Statistical Processing",
-        "file": "Splunk Statistical Processing Certificate.pdf",
-        "details": [
-            "Applying statistical commands (stats, timechart, chart)",
-            "Identifying anomalies, trends, and Indicators of Compromise (IoCs)",
-            "Enabling behavioral analytics in a SOC environment"
-        ]
-    },
-    {
-        "title": "Introduction to Enterprise Security",
-        "file": "Splunk Introduction to Enterprise Security Certificate.pdf",
-        "details": [
-            "Overview of Splunk Enterprise Security (ES) SIEM platform",
-            "Correlation searches, notable events, and risk-based alerting",
-            "Supporting incident detection and response workflows"
-        ]
-    },
-    {
-        "title": "Introduction to Cybersecurity Awareness",
-        "file": "Splunk Introduction to Cybersecurity Awareness Certificate.pdf",
-        "details": [
-            "Foundational cybersecurity principles aligned with industry standards",
-            "Threat actors, attack vectors, and defensive strategies",
-            "Reinforces security best practices within enterprise environments"
-        ]
-    }
-]
+Hands-on Security Information and Event Management (SIEM) training completed using Splunk, focused on log analysis, threat detection, and security operations workflows. These certifications demonstrate practical experience in analyzing machine data, building searches, and leveraging Splunk for real-world security monitoring and incident response.
 
-# Helper function to encode filenames safely for URLs
-def build_url(filename):
-    return BASE_URL + quote(filename)
+⸻
 
-# Generate README content
-def generate_readme():
-    lines = []
+🔐 Certification Breakdown
+	•	• Intro to Splunk — View Certificate￼
+	•	Core fundamentals of Splunk architecture and data ingestion
+	•	Searching, filtering, and navigating logs using Search Processing Language (SPL)
+	•	Understanding events, sources, and sourcetypes
 
-    lines.append("## 📊 Splunk Training Certificates\n")
-    lines.append("Hands-on Security Information and Event Management (SIEM) training completed using Splunk, focused on log analysis, threat detection, and security operations workflows. These certifications demonstrate practical experience in analyzing machine data, building searches, and leveraging Splunk for real-world security monitoring and incident response.\n")
+⸻
 
-    lines.append("---\n")
-    lines.append("### 🔐 Certification Breakdown\n")
+	•	• Using Fields — View Certificate￼
+	•	Field extraction and normalization for structured analysis
+	•	Enhancing search efficiency through field-based queries
+	•	Critical for detection use cases and correlation
 
-    for cert in certifications:
-        url = build_url(cert["file"])
-        lines.append(f"- • **{cert['title']}** — [View Certificate]({url})")
-        for detail in cert["details"]:
-            lines.append(f"  - {detail}")
-        lines.append("")  # spacing
+⸻
 
-    lines.append("---\n")
-    lines.append("## 🧠 Skills Demonstrated\n")
-    lines.extend([
-        "- SIEM Operations (Splunk)",
-        "- Log Analysis & Event Correlation",
-        "- Threat Detection & Indicator Identification",
-        "- Search Processing Language (SPL)",
-        "- Data Normalization & Field Extraction",
-        "- Security Monitoring & Incident Response\n"
-    ])
+	•	• Data Models — View Certificate￼
+	•	Structuring datasets for accelerated searches
+	•	Leveraging pivot functionality and CIM (Common Information Model)
+	•	Supporting scalable threat detection and reporting
 
-    lines.append("---\n")
-    lines.append("## 🔗 Relevance to Security+ (SY0-701)\n")
-    lines.extend([
-        "- **Threats, Vulnerabilities, and Mitigations**",
-        "  - Identifying Indicators of Compromise (IoCs)",
-        "  - Detecting malicious activity through log analysis",
-        "",
-        "- **Security Operations**",
-        "  - Continuous monitoring and event analysis",
-        "  - Incident response and SIEM utilization",
-        "",
-        "- **Security Architecture**",
-        "  - Understanding SIEM integration within enterprise environments\n"
-    ])
+⸻
 
-    lines.append("---\n")
-    lines.append("## 💼 Real-World Application\n")
-    lines.extend([
-        "- Monitoring logs for suspicious activity (e.g., beaconing, failed logins, abnormal traffic)",
-        "- Investigating alerts generated by correlation rules",
-        "- Using statistical analysis to detect anomalies",
-        "- Supporting incident triage and escalation"
-    ])
+	•	• Statistical Processing — View Certificate￼
+	•	Applying statistical commands (stats, timechart, chart)
+	•	Identifying anomalies, trends, and Indicators of Compromise (IoCs)
+	•	Enabling behavioral analytics in a SOC environment
 
-    return "\n".join(lines)
+⸻
 
-# Print output (or write to file)
-readme_content = generate_readme()
-print(readme_content)
+	•	• Introduction to Enterprise Security — View Certificate￼
+	•	Overview of Splunk Enterprise Security (ES) SIEM platform
+	•	Correlation searches, notable events, and risk-based alerting
+	•	Supporting incident detection and response workflows
 
-# Optional: save to file
-with open("Splunk_Certifications_README.md", "w") as f:
-    f.write(readme_content)
+⸻
+
+	•	• Introduction to Cybersecurity Awareness — View Certificate￼
+	•	Foundational cybersecurity principles aligned with industry standards
+	•	Threat actors, attack vectors, and defensive strategies
+	•	Reinforces security best practices within enterprise environments
+
+⸻
+
+🧠 Skills Demonstrated
+	•	SIEM Operations (Splunk)
+	•	Log Analysis & Event Correlation
+	•	Threat Detection & Indicator Identification
+	•	Search Processing Language (SPL)
+	•	Data Normalization & Field Extraction
+	•	Security Monitoring & Incident Response
+
+⸻
+
+🔗 Relevance to Security+ (SY0-701)
+
+These certifications align directly with key exam domains:
+	•	Threats, Vulnerabilities, and Mitigations
+	•	Identifying Indicators of Compromise (IoCs)
+	•	Detecting malicious activity through log analysis
+	•	Security Operations
+	•	Continuous monitoring and event analysis
+	•	Incident response and SIEM utilization
+	•	Security Architecture
+	•	Understanding SIEM integration within enterprise environments
+
+⸻
+
+💼 Real-World Application
+
+This training reflects practical SOC analyst responsibilities:
+	•	Monitoring logs for suspicious activity (e.g., beaconing, failed logins, abnormal traffic)
+	•	Investigating alerts generated by correlation rules
+	•	Using statistical analysis to detect anomalies
+	•	Supporting incident triage and escalation
+
+⸻
