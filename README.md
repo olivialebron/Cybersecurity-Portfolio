@@ -56,12 +56,6 @@ This portfolio is organized based on the CompTIA Security+ Incident Response Pro
 👉 [View All Projects](./projects)
 
 ---
-## 🔗 Lab Profiles
-
-- TryHackMe Profile: https://tryhackme.com/p/olivia.lebron  
-- Blue Team Labs Online (BTLO): https://blueteamlabs.online/home/user/87845099553f9456976684
-
----
 
 ### 🧩 Preparation  
 Establishing secure configurations, implementing controls, and preparing monitoring environments  
@@ -85,7 +79,13 @@ Incident response actions, remediation, and system restoration
 Incident reporting, root cause analysis, and continuous improvement  
 👉 [View Post-Incident Activity](./projects/04-post-incident)
 
+## 🔗 Lab Profiles
+
+- TryHackMe Profile: https://tryhackme.com/p/olivia.lebron  
+- Blue Team Labs Online (BTLO): https://blueteamlabs.online/home/user/87845099553f9456976684
+
 ---
+
 ## 🎓 Education
 
 **Strayer University**  
