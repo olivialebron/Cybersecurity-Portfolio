@@ -1,4 +1,4 @@
-## 📊 Splunk Training & Certifications
+## 📊 Splunk Training & Certificates
 
 Hands-on SIEM and log analysis training completed using Splunk:
 
