@@ -5,7 +5,7 @@
 ## 🧾 About Me
 I am a cybersecurity analyst in training with hands-on experience in security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
 
-My experience is focused on applying real-world SOC workflows to identify, analyze, and respond to security threats using tools such as Splunk, Wireshark, and endpoint logging systems.
+My work focuses on applying Security Operations Center (SOC) workflows to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems.
 
 ---
 
@@ -26,12 +26,12 @@ My experience is focused on applying real-world SOC workflows to identify, analy
 - Wireshark  
 - Tcpdump  
 
-### 🧪 Threat Analysis & Investigation Tools
-- CyberChef (data decoding, transformation, analysis)  
-- MITRE ATT&CK (threat mapping and adversary techniques)  
+### 🧪 Threat Analysis & Investigation
+- CyberChef (data decoding and transformation)  
 - VirusTotal (file, hash, and URL analysis)  
+- MITRE ATT&CK (threat mapping and adversary techniques)  
 
-### 🖥️ Systems & Security Tools
+### 🖥️ Systems & Endpoint Visibility
 - Windows Event Logs  
 - Sysmon  
 - Linux CLI  
@@ -43,31 +43,41 @@ My experience is focused on applying real-world SOC workflows to identify, analy
 
 ---
 
-# 🏢 Portfolio Structure (SOC Workflow)
+# 🏢 Portfolio Structure (Incident Response Lifecycle)
 
-This portfolio is organized based on the Incident Response Process (IRP), demonstrating hands-on experience across the full lifecycle of security operations.
+This portfolio is organized based on the CompTIA Security+ Incident Response Process (IRP) and demonstrates hands-on experience through structured lab work and investigations.
 
-👉 Each folder contains detailed lab-based investigations, documentation, and practical exercises aligned with real SOC workflows.
+👉 All hands-on experience, lab work, and case studies are organized within the projects directory below.
 
 ---
 
-## 🔍 Explore Hands-On Experience
+## 🔍 Explore Projects
 
-- 🧩 Preparation  
-  Establishing secure configurations, controls, and monitoring readiness  
-  👉 01-preparation/
+👉 [View All Projects](./projects)
 
-- 📡 Detection & Analysis (Tier 1 / Tier 2 SOC)  
-  Log analysis, alert triage, and threat investigation using SIEM tools  
-  👉 02-detection-analysis/
+---
 
-- 🛑 Containment, Eradication & Recovery  
-  Incident response actions, remediation, and system restoration  
-  👉 03-containment-eradication-recovery/
+### 🧩 Preparation  
+Establishing secure configurations, implementing controls, and preparing monitoring environments  
+👉 [View Preparation Labs](./projects/01-preparation)
 
-- 📘 Post-Incident Activity (Lessons Learned)  
-  Reporting, root cause analysis, and continuous improvement  
-  👉 04-post-incident/
+---
+
+### 📡 Detection & Analysis (Tier 1 / Tier 2 SOC)  
+Monitoring, alert triage, log analysis, and threat investigation using SIEM tools  
+👉 [View Detection & Analysis](./projects/02-detection-analysis)
+
+---
+
+### 🛑 Containment, Eradication & Recovery  
+Incident response actions, remediation, and system restoration  
+👉 [View Containment & Recovery](./projects/03-containment-eradication-recovery)
+
+---
+
+### 📘 Post-Incident Activity (Lessons Learned)  
+Incident reporting, root cause analysis, and continuous improvement  
+👉 [View Post-Incident Activity](./projects/04-post-incident)
 
 ---
 
@@ -79,7 +89,7 @@ This portfolio is organized based on the Incident Response Process (IRP), demons
 ---
 
 ## 📄 Resume
-A copy of my resume is available in this repository.
+👉 [View Resume](./resume)
 
 ---
 
