@@ -3,7 +3,7 @@
 
 Hands-on Security Information and Event Management (SIEM) training completed using Splunk, focused on log analysis, threat detection, and security operations workflows. These certifications demonstrate practical experience in analyzing machine data, building searches, and leveraging Splunk for real-world security monitoring and incident response.
 
-⸻
+---
 
 🔐 Certification Breakdown
 	•	• Intro to Splunk — View Certificate￼
@@ -11,42 +11,42 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 	•	Searching, filtering, and navigating logs using Search Processing Language (SPL)
 	•	Understanding events, sources, and sourcetypes
 
-⸻
+---
 
-	•	• Using Fields — View Certificate￼
+Using Fields — View Certificate￼
 	•	Field extraction and normalization for structured analysis
 	•	Enhancing search efficiency through field-based queries
 	•	Critical for detection use cases and correlation
 
-⸻
+---
 
-	•	• Data Models — View Certificate￼
+Data Models — View Certificate￼
 	•	Structuring datasets for accelerated searches
 	•	Leveraging pivot functionality and CIM (Common Information Model)
 	•	Supporting scalable threat detection and reporting
 
-⸻
+---
 
-	•	• Statistical Processing — View Certificate￼
+Statistical Processing — View Certificate￼
 	•	Applying statistical commands (stats, timechart, chart)
 	•	Identifying anomalies, trends, and Indicators of Compromise (IoCs)
 	•	Enabling behavioral analytics in a SOC environment
 
-⸻
+---
 
-	•	• Introduction to Enterprise Security — View Certificate￼
+Introduction to Enterprise Security — View Certificate￼
 	•	Overview of Splunk Enterprise Security (ES) SIEM platform
 	•	Correlation searches, notable events, and risk-based alerting
 	•	Supporting incident detection and response workflows
 
-⸻
+---
 
-	•	• Introduction to Cybersecurity Awareness — View Certificate￼
+Introduction to Cybersecurity Awareness — View Certificate￼
 	•	Foundational cybersecurity principles aligned with industry standards
 	•	Threat actors, attack vectors, and defensive strategies
 	•	Reinforces security best practices within enterprise environments
 
-⸻
+---
 
 🧠 Skills Demonstrated
 	•	SIEM Operations (Splunk)
@@ -56,7 +56,7 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 	•	Data Normalization & Field Extraction
 	•	Security Monitoring & Incident Response
 
-⸻
+---
 
 🔗 Relevance to Security+ (SY0-701)
 
@@ -70,7 +70,7 @@ These certifications align directly with key exam domains:
 	•	Security Architecture
 	•	Understanding SIEM integration within enterprise environments
 
-⸻
+---
 
 💼 Real-World Application
 
@@ -80,4 +80,4 @@ This training reflects practical SOC analyst responsibilities:
 	•	Using statistical analysis to detect anomalies
 	•	Supporting incident triage and escalation
 
-⸻
+
