@@ -9,11 +9,12 @@ My work focuses on applying Security Operations Center (SOC) workflows to detect
 
 ---
 
-## 🎯 Career Focus
-- Security Operations Center (SOC) Analyst  
-- Threat Detection & Log Analysis  
-- Incident Response & Investigation  
-- SIEM (Splunk) Monitoring & Alert Triage  
+### 🎯 Career Focus
+- Cybersecurity and Cloud Security Engineering
+- Artificial Intelligence for Security Operations
+- Threat Detection, Analysis, and Automation
+- Incident Response and Security Optimization
+- Scalable Security Monitoring and Analytics
 
 ---
 
