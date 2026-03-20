@@ -89,7 +89,7 @@ Incident reporting, root cause analysis, and continuous improvement
 ---
 
 ## 📄 Resume
-👉 [View Resume](./resume)
+👉 [View Resume](./Olivia%20Lebron%20Technical%20Resume.pdf)
 
 ---
 
