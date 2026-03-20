@@ -104,15 +104,6 @@ Associate of Arts (AA), Information Technology — 2017
 ---
 
 ## 🎓 Certifications
-- 🛡️ CompTIA Security+ (SY0-701)  
-- 🔐 ISC2 Certified in Cybersecurity (CC)  
-- 📊 Splunk Core Certified Power User (in progress)
-
-Verified certifications:  
-https://www.credly.com/users/olivialebron 
-
----
-## 🎓 Certifications
 
 * 🛡️ CompTIA Security+ (SY0-701)
 * 🔐 ISC2 Certified in Cybersecurity (CC)
@@ -141,6 +132,8 @@ These courses demonstrate practical experience with:
 * Data modeling and correlation
 * Statistical analysis for threat detection
 * SIEM-based investigation workflows
+
+[View Splunk Certifications](./certifications/README.md)
 
 ---
 
