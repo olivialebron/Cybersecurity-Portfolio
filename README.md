@@ -141,7 +141,7 @@ These courses demonstrate practical experience with:
 
 This section of my portfolio highlights projects that combine artificial intelligence, cloud engineering, software development, and cybersecurity to solve security operations and threat analysis challenges.
 
-👉 View AI & Cloud Security: [AI & Cloud Security](./AI%20%26%20Cloud%20Security/README.md)
+👉 👉 View AI & Cloud Security: [AI & Cloud Security](./AI%20%26%20Cloud%20Security%20folder%20section/README.md)
 
 ### 🎯 Focus Areas
 - 🤖 AI-driven threat detection & analysis (GenAI foundations, prompt-based workflows)  
