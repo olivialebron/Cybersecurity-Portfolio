@@ -138,6 +138,13 @@ These courses demonstrate practical experience with:
 📄 View my splunk certificates: [splunk certificates](./splunk%20certificates/README.md)
 
 ---
+## 🐍 Python Projects (CIS 261: Introduction to Programming Using Python)
+
+Collection of Python coursework demonstrating foundational programming concepts including control flow, functions, object-oriented design, and data handling through practical applications.
+
+[View Python Projects](python-projects/README.md)
+
+---
 
 ## 🤖 AI & Cloud Security
 
