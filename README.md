@@ -136,7 +136,7 @@ These courses demonstrate practical experience with:
 
 Collection of Python coursework demonstrating foundational programming concepts including control flow, functions, object-oriented design, and data handling through practical applications. These projects support scripting and automation skills applicable to security analysis and workflow optimization.
 
-👉 [View Python Projects](./python-projects/README.md)
+👉 [View Python Projects](./python%20projects/README.md)
 
 ## 🤖 AI & Cloud Security
 
