@@ -160,4 +160,4 @@ This section highlights projects that combine artificial intelligence, cloud eng
 ## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/olivialebron)
-- olivia.lebron01@gmail.com
+- [Email](mailto:olivia.lebron01@gmail.com)
