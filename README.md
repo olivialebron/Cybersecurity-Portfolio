@@ -1,11 +1,12 @@
 # 👩🏽‍💻 Olivia Lebron | Cybersecurity Analyst Portfolio
 
-
 ## 🧾 About Me
 
-I am a cybersecurity analyst in training with hands-on experience in security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
+I am a cybersecurity analyst in training with hands-on experience across multiple domains, including security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
 
-My work focuses on applying Security Operations Center (SOC) workflows to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems. I am expanding my skill set to include **AI-driven security analysis, cloud engineering (Google Cloud and Microsoft Azure), and data pipeline processing**, with experience in Python, SQL, and object-oriented programming to support security automation and analytics.
+My work involves applying core cybersecurity principles to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems. Through these experiences, I am building a strong foundation in security monitoring, analysis, and defensive strategies.
+
+I am intentionally developing a broad cybersecurity skill set while expanding into AI-driven security and cloud security. My goal is to leverage machine learning concepts and cloud platforms (Google Cloud and Microsoft Azure) to enhance threat detection, automation, and scalable security solutions. I also bring experience in Python, SQL, and object-oriented programming to support security analytics, automation, and data-driven decision-making.
 
 ---
 
