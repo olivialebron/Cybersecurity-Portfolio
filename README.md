@@ -1,44 +1,63 @@
 # 👩🏽‍💻 Olivia Lebron | Cybersecurity Analyst Portfolio
 
+---
+
+## 🧾 About This Portfolio
+
+This portfolio demonstrates hands-on cybersecurity experience across threat detection, incident response, system monitoring, and security engineering. It includes structured lab investigations and applied projects focused on analyzing, detecting, and responding to security events.
+
+The work extends beyond traditional security operations by incorporating programming, data analysis, and cloud-based concepts to support automation and scalable security solutions. Projects leverage Python, SQL, and cloud platforms to enhance detection capabilities, streamline workflows, and improve overall security effectiveness.
+
+This portfolio reflects a growing focus on detection engineering, cloud security, and data-driven security operations.
+
+---
+
 ## 🧾 About Me
 
 I am a cybersecurity analyst in training with hands-on experience across multiple domains, including security operations, threat detection, incident response, and system hardening. I am currently completing a cybersecurity analyst program through Per Scholas and hold certifications aligned with industry standards.
 
 My work involves applying core cybersecurity principles to detect, analyze, and respond to security events using tools such as Splunk, Wireshark, and endpoint logging systems. Through these experiences, I am building a strong foundation in security monitoring, analysis, and defensive strategies.
 
-I am intentionally developing a broad cybersecurity skill set while expanding into AI-driven security and cloud security. My goal is to leverage machine learning concepts and cloud platforms (Google Cloud and Microsoft Azure) to enhance threat detection, automation, and scalable security solutions. I also bring experience in Python, SQL, and object-oriented programming to support security analytics, automation, and data-driven decision-making.
+In addition to security operations, I bring programming experience in Python and SQL to support automation, data analysis, and security-focused problem solving. I use these skills to build scripts, analyze data, and improve efficiency in security workflows.
+
+I am intentionally developing a broad cybersecurity skill set while expanding into AI-driven security and cloud security. My goal is to leverage machine learning concepts and cloud platforms (Google Cloud and Microsoft Azure) to enhance threat detection, automation, and scalable security solutions.
 
 ---
 
-### 🎯 Career Focus
-- Cybersecurity and Cloud Security Engineering
-- Artificial Intelligence for Security Operations
-- Threat Detection, Analysis, and Automation
-- Incident Response and Security Optimization
-- Scalable Security Monitoring and Analytics
+## 🎯 Career Focus
+
+- Detection Engineering & Threat Detection  
+- Cloud Security Engineering (GCP & Azure)  
+- Security Automation & Data-Driven Defense  
+- Incident Response & Security Operations  
+- Scalable Security Monitoring & Analytics  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technical Skills
 
-### 📊 SIEM & Log Analysis
-- Splunk (SPL queries, log correlation, alerting)
+**Programming & Automation**
+- Python (automation, scripting, data analysis)  
+- SQL (querying, data analysis)  
 
-### 🔍 Network & Traffic Analysis
+**SIEM & Detection Engineering**
+- Splunk (SPL queries, correlation, alerting, detection logic)
+
+**Network & Traffic Analysis**
 - Wireshark  
 - Tcpdump  
 
-### 🧪 Threat Analysis & Investigation
-- CyberChef (data decoding and transformation)  
-- VirusTotal (file, hash, and URL analysis)  
-- MITRE ATT&CK (threat mapping and adversary techniques)  
+**Threat Analysis & Investigation**
+- CyberChef  
+- VirusTotal  
+- MITRE ATT&CK  
 
-### 🖥️ Systems & Endpoint Visibility
+**Systems & Endpoint Visibility**
 - Windows Event Logs  
 - Sysmon  
 - Linux CLI  
 
-### ⚔️ Security Testing & Enumeration
+**Security Testing & Enumeration**
 - Nmap  
 - Metasploit  
 - Kali Linux  
@@ -81,10 +100,12 @@ Incident response actions, remediation, and system restoration
 Incident reporting, root cause analysis, and continuous improvement  
 👉 [View Post-Incident Activity](./projects/04-post-incident)
 
+---
+
 ## 🔗 Lab Profiles
 
 - TryHackMe Profile: https://tryhackme.com/p/olivia.lebron  
-- Blue Team Labs Online (BTLO): https://blueteamlabs.online/home/user/87845099553f9456976684
+- Blue Team Labs Online (BTLO): https://blueteamlabs.online/home/user/87845099553f9456976684  
 
 ---
 
@@ -101,18 +122,18 @@ Associate of Arts (AA), Information Technology — 2017
 
 **Per Scholas – Cybersecurity Analyst Program**  
 - Hands-on training in SOC operations, incident response, and threat detection  
-- Practical experience with SIEM (Splunk), network analysis, and endpoint monitoring
+- Practical experience with SIEM (Splunk), network analysis, and endpoint monitoring  
 
 ---
 
 ## 🎓 Certifications
 
-* 🛡️ CompTIA Security+ (SY0-701)
-* 🔐 ISC2 Certified in Cybersecurity (CC)
-* 📊 Splunk Core Certified Power User (in progress)
+- 🛡️ CompTIA Security+ (SY0-701)  
+- 🔐 ISC2 Certified in Cybersecurity (CC)  
+- 📊 Splunk Core Certified Power User (in progress)  
 
-🔗 Verified certifications (Credly):
-https://www.credly.com/users/olivialebron
+🔗 Verified certifications (Credly):  
+https://www.credly.com/users/olivialebron  
 
 ---
 
@@ -120,29 +141,31 @@ https://www.credly.com/users/olivialebron
 
 Hands-on SIEM and log analysis training completed using Splunk Enterprise:
 
-* Intro to Splunk (eLearning) — 
-* Using Fields — 
-* Data Models — 
-* Statistical Processing — 
-* Introduction to Enterprise Security — 
-* Introduction to Cybersecurity Awareness — 
+- Intro to Splunk (eLearning)  
+- Using Fields  
+- Data Models  
+- Statistical Processing  
+- Introduction to Enterprise Security  
+- Introduction to Cybersecurity Awareness  
 
 These courses demonstrate practical experience with:
 
-* SPL (Search Processing Language)
-* Field extraction and normalization
-* Data modeling and correlation
-* Statistical analysis for threat detection
-* SIEM-based investigation workflows
+- SPL (Search Processing Language)  
+- Field extraction and normalization  
+- Data modeling and correlation  
+- Statistical analysis for threat detection  
+- SIEM-based investigation workflows  
 
-📄 View my splunk certificates: [splunk certificates](./splunk%20certificates/README.md)
+📄 View my splunk certificates:  
+👉 [splunk certificates](./splunk%20certificates/README.md)
 
 ---
+
 ## 🐍 Python Projects (CIS 261: Introduction to Programming Using Python)
 
-Collection of Python coursework demonstrating foundational programming concepts including control flow, functions, object-oriented design, and data handling through practical applications.
+Collection of Python coursework demonstrating foundational programming concepts including control flow, functions, object-oriented design, and data handling through practical applications. These projects support scripting and automation skills applicable to security analysis and workflow optimization.
 
-[View Python Projects](python-projects/README.md)
+👉 [View Python Projects](./python-projects/README.md)
 
 ---
 
@@ -150,23 +173,27 @@ Collection of Python coursework demonstrating foundational programming concepts 
 
 This section of my portfolio highlights projects that combine artificial intelligence, cloud engineering, software development, and cybersecurity to solve security operations and threat analysis challenges.
 
-👉 👉 View AI & Cloud Security: [AI & Cloud Security](./AI%20%26%20Cloud%20Security%20folder%20section/README.md)
+👉 👉 View AI & Cloud Security:  
+👉 [AI & Cloud Security](./AI%20%26%20Cloud%20Security%20folder%20section/README.md)
 
 ### 🎯 Focus Areas
-- 🤖 AI-driven threat detection & analysis (GenAI foundations, prompt-based workflows)  
-- ☁️ Cloud security architecture (Google Cloud & Microsoft Azure; IAM, logging, operations)  
-- 🛡️ SIEM-inspired log analysis & event correlation (Security Operations concepts)  
-- 📊 Data pipelines & analytics (BigQuery, Pub/Sub/streaming, audit log analysis)  
+
+- 🤖 AI-driven threat detection & analysis  
+- ☁️ Cloud security architecture (Google Cloud & Microsoft Azure)  
+- 🛡️ SIEM-inspired log analysis & event correlation  
+- 📊 Data pipelines & analytics  
 - 💻 Software engineering (Python, SQL, Object-Oriented Programming, API development)  
 - ⚙️ Methods & practices (log parsing, data transformation, incident response workflows, risk management)
 
 ---
 
 ## 📄 Resume
+
 👉 [View Resume](./Olivia%20Lebron%20Technical%20Resume.pdf)
 
 ---
 
 ## 📬 Contact
+
 - LinkedIn: https://www.linkedin.com/in/olivialebron  
 - Email: olivia.lebron01@gmail.com  
