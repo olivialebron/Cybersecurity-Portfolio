@@ -8,13 +8,13 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Searching, filtering, and navigating logs using Search Processing Language (SPL)
 - Understanding events, sources, and sourcetypes
 
-### 🔐 Using Fields
+### 🔐 Splunk Using Fields
 - [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Using%20Fields%20Certificate.pdf)
 - Field extraction and normalization for structured analysis
 - Enhancing search efficiency through field-based queries
 - Critical for detection use cases and correlation
 
-### 🔐 Data Models
+### 🔐 Splunk Data Models
 - [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Data%20Models%20Certificate.pdf)
 - Structuring datasets for accelerated searches
 - Leveraging pivot functionality and CIM (Common Information Model)
@@ -26,13 +26,13 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Identifying anomalies, trends, and Indicators of Compromise (IoCs)
 - Enabling behavioral analytics in a SOC environment
 
-### 🔐 Introduction to Enterprise Security
+### 🔐 Splunk Introduction to Enterprise Security
 - [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Introduction%20to%20Enterprise%20Security%20Certificate.pdf)
 - Overview of Splunk Enterprise Security (ES) SIEM platform
 - Correlation searches, notable events, and risk-based alerting
 - Supporting incident detection and response workflows
 
-### 🔐 Introduction to Cybersecurity Awareness
+### 🔐 Splunk Introduction to Cybersecurity Awareness
 - [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Introduction%20to%20Cybersecurity%20Awareness%20Certificate.pdf)
 - Foundational cybersecurity principles aligned with industry standards
 - Threat actors, attack vectors, and defensive strategies
