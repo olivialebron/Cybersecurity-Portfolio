@@ -43,7 +43,13 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 
 - Introduces core security operations concepts and the role of a defense analyst  
 - Covers incident detection, investigation workflows, and response strategies  
-- Focuses on practical SOC processes and real-world security monitoring techniques   
+- Focuses on practical SOC processes and real-world security monitoring techniques
+
+### 🔐 Splunk Scheduling Reports & Alerts
+- [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Scheduling%20Reports%20%26%20Alerts%20(eLearning%20withlabs).pdf)
+- Covers creation and scheduling of reports and alerts in Splunk
+- Explains trigger conditions including per-result and rolling window logic
+- Emphasizes alert tuning, throttling, and reducing alert fatigue in SOC environments
 
 ---
 
