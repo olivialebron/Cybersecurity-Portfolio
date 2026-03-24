@@ -38,19 +38,19 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Threat actors, attack vectors, and defensive strategies
 - Reinforces security best practices within enterprise environments
 
-### Scheduling Reports & Alerts (eLearning with labs)
-[View Certificate](#)
+### 🔐 Scheduling Reports & Alerts (eLearning with labs)
+[View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Scheduling%20Reports%20%26%20Alerts%20(eLearning%20withlabs).pdf)
 
 - Covers creation and management of scheduled reports and alerts in Splunk  
 - Explains trigger conditions including per-result and rolling window logic  
 - Emphasizes alert optimization, throttling, and monitoring for operational efficiency  
 
-### Security Operations and the Defense Analyst (eLearning)
-[View Certificate](#)
+### 🔐 Security Operations and the Defense Analyst (eLearning)
+[View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Security%20Operations%20and%20the%20Defense%20Analyst%20(eLearning).pdf)
 
 - Introduces core security operations concepts and the role of a defense analyst  
 - Covers incident detection, investigation workflows, and response strategies  
-- Focuses on practical SOC processes and real-world security monitoring techniques
+- Focuses on practical SOC processes and real-world security monitoring techniques  
 
 ---
 
