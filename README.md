@@ -107,7 +107,7 @@ Associate of Arts (AA), Information Technology — 2017
 - 🔐 ISC2 Certified in Cybersecurity (CC)
 
 **In Progress**
-- 📊 Splunk Core Certified Power User *(expected 2025)*
+- 📊 Splunk Core Certified Power User *(expected 2026)*
 
 🔗 [Verified Certifications on Credly](https://www.credly.com/users/olivialebron)
 
