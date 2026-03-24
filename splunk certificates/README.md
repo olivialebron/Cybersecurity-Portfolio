@@ -61,6 +61,7 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Data Normalization and Field Extraction
 - Security Monitoring and Incident Response
 - Alerting, Scheduling, and Trigger Configuration
+- Report Scheduling and Automated Alert Workflows
 - SOC Operations and Defense Analyst Workflows
 
 ### 🔍 Example Detection Use Cases
@@ -69,6 +70,7 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Anomalous activity using statistical analysis
 - Alert tuning and noise reduction using throttling
 - Scheduled alerting for recurring threat patterns
+- Automated alert generation based on threshold and time-based triggers
 
 ### 🔗 Security+ (SY0-701) Alignment
 - Threat detection using Indicators of Compromise (IoCs)
@@ -77,3 +79,4 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Understanding SIEM architecture in enterprise environments
 - Alerting mechanisms and monitoring strategies
 - SOC analyst roles and operational responsibilities
+- Continuous monitoring through scheduled alerts and reporting
