@@ -38,14 +38,14 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Threat actors, attack vectors, and defensive strategies
 - Reinforces security best practices within enterprise environments
 
-### Splunk Statistical Processing
+### 🔐 Splunk Statistical Processing
 [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Statistical%20Processing%20Certificate.pdf)
 
 - Covers statistical functions and commands for data analysis in Splunk  
 - Enables anomaly detection using aggregation and trend analysis  
 - Supports advanced search techniques for security insights  
 
-### Splunk Using Fields
+### 🔐 Splunk Using Fields
 [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Using%20Fields%20Certificate.pdf)
 
 - Focuses on field extraction, normalization, and field-based analysis  
