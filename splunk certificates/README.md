@@ -20,7 +20,7 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Leveraging pivot functionality and CIM (Common Information Model)
 - Supporting scalable threat detection and reporting
 
-### 🔐 Statistical Processing
+### 🔐 Splunk Statistical Processing
 - [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Statistical%20Processing%20Certificate.pdf)
 - Applying statistical commands such as stats, timechart, and chart
 - Identifying anomalies, trends, and Indicators of Compromise (IoCs)
@@ -37,13 +37,6 @@ Hands-on Security Information and Event Management (SIEM) training completed usi
 - Foundational cybersecurity principles aligned with industry standards
 - Threat actors, attack vectors, and defensive strategies
 - Reinforces security best practices within enterprise environments
-
-### 🔐 Splunk Statistical Processing
-- [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Statistical%20Processing%20Certificate.pdf)
-
-- Covers statistical functions and commands for data analysis in Splunk  
-- Enables anomaly detection using aggregation and trend analysis  
-- Supports advanced search techniques for security insights  
 
 ### 🔐 Splunk Security Operations and the Defense Analyst
 - [View Certificate](https://github.com/olivialebron/Cybersecurity-Portfolio/blob/main/splunk%20certificates/Splunk%20Security%20Operations%20and%20the%20Defense%20Analyst.pdf)
