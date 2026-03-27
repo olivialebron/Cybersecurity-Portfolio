@@ -155,7 +155,7 @@ This section highlights projects that combine artificial intelligence, cloud eng
 
 ## 📄 Resume
 
-👉 [View Resume](./Olivia%20Lebron%20Technical%20Resume.pdf)
+👉 [View Resume](./Olivia%20Lebron%20Cyber%20Resume.pdf)
 
 ## 📬 Contact
 
